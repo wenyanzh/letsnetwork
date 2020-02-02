@@ -1,1 +1,2 @@
-# letsnetwork
+# Let Us Connect
+Our company, Let Us Connect, empowers and provides a platform for women from middle school, high school, and college to connect with mentees or mentors working in STEM fields. Having a mentoring system in place will help guide women in the right direction, giving them the necessary resources, and support into a successful career. This will allow them to feel more confident in their abilities to succeed. Our goal is to foster sisterhood, inspire the next generation of females to pursue a degree in STEM, and increase the number of women in the workforce.
